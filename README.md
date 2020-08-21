@@ -13,10 +13,10 @@ Conectar ONGs a pessoas que estão dispostas a ajudar na causa.
 
 ### Web
 <p align="center">
-  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page1.png" width="500" height="260" alt="landing">
-  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page2.png" width="500" height="260" alt="page1">
-  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page3.png" width="500" height="260" alt="page2">
-  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page4.png" width="500" height="260" alt="page3">  
+  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page1.png" width="48%" height="260" alt="landing">
+  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page2.png" width="48%" height="260" alt="page1">
+  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page3.png" width="48%" height="260" alt="page2">
+  <img src="https://github.com/LuhBezerra/be-the-hero/blob/master/assets/page4.png" width="48%" height="260" alt="page3">  
 </p>
 
 ### Mobile
